@@ -1,0 +1,48 @@
+body {
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+/* Phase1 with Container Grid */
+#container {
+    background-color: black;
+}
+
+/* Phase 2 contenant with Flex */
+#card11 {
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.textCard11 {
+    background-color:bisque ;
+}
+
+/* Phase 3* contenus html et css */
+.textCard11 h2 {
+    margin: 0;
+}
+
+.textCard11 p {
+    margin: 0;
+}
+/* end Phase 3* contenus html et css */
+
+.hybride {
+    background-color: chartreuse;
+    flex-grow: 2;
+}
+
+.price {
+    background-color: darkkhaki;
+
+}
+
+.card2 {
+    background-color: deeppink;
+}
+
+{}
